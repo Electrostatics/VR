@@ -35,5 +35,20 @@ The figure above illustrates UnityMol-APBS menu commands for HTC Vive controller
 
 ### Visualization of electrostatic steering of acetylcholinesterase (AChE) ligands
 
+Please see YouTube for a [video](https://www.youtube.com/watch?v=-SfzQ97h4O0) illustrating this example.
+
 As described in [a recent publication](https://arxiv.org/abs/1908.11261), UnityMol-APBS has been used to visualize the electrostatic steering of ligands to the AChE catalytic site.
-The input files required for this example are provided in [this repository](examples/AChE/).
+The input files required for this example are provided [in this repository](examples/AChE/).
+The directions for executing this example are provided in the [accompanying paper](https://arxiv.org/abs/1908.11261).
+
+![Visualization of electrostatic steering of ligands to the AChE catalytic site](images/AChE.png)
+
+### Exploration of the electrostatic properties of a synthetic redox protein
+
+Please see YouTube for a [video](https://www.youtube.com/watch?v=5J8qq7r_gos) illustrating this example.
+
+As described in [a recent publication](https://arxiv.org/abs/1908.11261), UnityMol-APBS has been used to visualize the electrostatic properties of a redox site in an engineered version of the LmrR protein system.
+The input files required for this example are provided [in this repository](examples/LmrR/).
+The directions for executing this example are provided in the [accompanying paper](https://arxiv.org/abs/1908.11261).
+
+![Exploration of the electrostatic properties of a synthetic redox protein](images/LmrR.png)

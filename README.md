@@ -9,3 +9,6 @@ Desktop two-dimensional visualization with this software is possible on Windows,
 ## Getting UnityMol-APBS
 
 As with APBS and PDB2PQR, we request that you [register your use of the software](http://eepurl.com/by4eQr) to help with its continued development through federal funding (NIH grant GM69702).
+
+Due to limitations on virtual reality hardware/software support, UnityMol-APBS is currently only available on Windows.
+This software can be downloaded from https://github.com/Electrostatics/VR/releases.

@@ -6,11 +6,13 @@ The new UnityMol-APBS software integrates [APBS/PDB2PQR](http://www.poissonboltz
 The VR version of this software is freely available for the Windows platform.
 Desktop two-dimensional visualization with this software is possible on Windows, Mac OS X, or Linux.
 
+The major features of the software are described in [a recent publication](https://arxiv.org/abs/1908.11261).
 Examples of UnityMol-APBS VR visualization are provided below and in the following videos:
 
-* [Visualization of electrostatic steering of acetylcholinesterase ligands]()
+* [Visualization of electrostatic steering of acetylcholinesterase (AChE) ligands](https://www.youtube.com/watch?v=-SfzQ97h4O0)
+* [Exploration of the electrostatic properties of a synthetic redox protein](https://www.youtube.com/watch?v=5J8qq7r_gos)
 
-## Getting UnityMol-APBS
+## Obtaining UnityMol-APBS
 
 As with APBS and PDB2PQR, we request that you [register your use of the software](http://eepurl.com/by4eQr) to help with its continued development through federal funding (NIH grant GM69702).
 
@@ -19,5 +21,14 @@ This software can be downloaded from https://github.com/Electrostatics/VR/releas
 
 ## Using UnityMol-APBS
 
-This documentation assumes that UnityMol-APBS has been downloaded from the link above and that APBS/PDB2PQR](http://www.poissonboltzmann.org/) has been installed at `C:\APBS-PDB2PQR`.
+This documentation assumes that UnityMol-APBS has been downloaded from the link above and that [APBS/PDB2PQR](http://www.poissonboltzmann.org/) has been installed at `C:\APBS-PDB2PQR`.
 
+
+### User environment
+
+![UnityMol-APBS UI](images/UI.png)
+The figure above illustrates the UnityMol-APBS user interface for PDB2PQR and APBS. (A) The main UnityMolAPBS menu; orange box highlights the two buttons used to open the APBS and PDB2PQR tools. (B) The main menu for interactions with APBS and PDB2PQR. Blue boxes show the
+buttons to launch PDB2PQR and APBS executables, green boxes show the location of the options used for producing the image in Figures 2, and the purple boxes highlight the two input fields required to use custom force fields and custom residue names.
+
+![UnityMol-APBS HTC Vive control](images/MenuCommands.png)
+The figure above illustrates UnityMol-APBS menu commands for HTC Vive controllers.

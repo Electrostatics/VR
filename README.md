@@ -32,3 +32,8 @@ buttons to launch PDB2PQR and APBS executables, green boxes show the location of
 
 ![UnityMol-APBS HTC Vive control](images/MenuCommands.png)
 The figure above illustrates UnityMol-APBS menu commands for HTC Vive controllers.
+
+### Visualization of electrostatic steering of acetylcholinesterase (AChE) ligands
+
+As described in [a recent publication](https://arxiv.org/abs/1908.11261), UnityMol-APBS has been used to visualize the electrostatic steering of ligands to the AChE catalytic site.
+The input files required for this example are provided in [this repository](examples/AChE/).
